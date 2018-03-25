@@ -1,0 +1,226 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/audio.cpp
+ao/ao.h
+-
+mpg123.h
+-
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/ball.cpp
+ball.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/ball.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/ball.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/barrell.cpp
+barrell.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/barrell.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/barrell.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cannon.cpp
+cannon.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cannon.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cannon.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/color.cpp
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cuboid.cpp
+cuboid.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cuboid.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cuboid.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/gift.cpp
+gift.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/gift.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/gift.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/health.cpp
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+health.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/health.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/health.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/input.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.cpp
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+timer.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/timer.h
+ball.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/ball.h
+cuboid.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cuboid.h
+cannon.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/cannon.h
+monster.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/monster.h
+health.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/health.h
+gift.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/gift.h
+mast.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/mast.h
+barrell.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/barrell.h
+patches.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/patches.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/mast.cpp
+mast.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/mast.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/mast.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/monster.cpp
+monster.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/monster.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/monster.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/nonedit.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/other_handlers.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/patches.cpp
+patches.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/patches.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/patches.h
+main.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/main.h
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/timer.cpp
+timer.h
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/timer.h
+GLFW/glfw3.h
+-
+
+/home/anvesh/Desktop/Sem 2-2/Graphics/assignment2/Assignment2/20161094_assign2/graphics-boilerplate/src/timer.h
+
