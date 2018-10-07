@@ -1,20 +1,20 @@
 * Controls:
 * **Boat Movement** ::
-	* left : turn left
-	* right : turn right
-	* up : move straight
-	* down : move back
-	* space bar : jump.
+  * left : turn left
+  * right : turn right
+  * up : move straight
+  * down : move back
+  * space bar : jump.
 * **Views** ::
-	* 1 : follow-cam view
-	* 2 : boat-view
-	* 3 : top-view
-	* 4 : tower-view
-	* 5 : helicopter-view
-		-> Change position of cursor to view the world
-	* Cannon ::
-		* Mouse cursor movement to move the cannon
-		* F : Throw fireball
+  * 1 : follow-cam view
+  * 2 : boat-view
+  * 3 : top-view
+  * 4 : tower-view
+  * 5 : helicopter-view
+  	-> Change position of cursor to view the world
+  * Cannon ::
+  	* Mouse cursor movement to move the cannon
+  	* F : Throw fireball
 
 
 * **Available Views**:
@@ -39,18 +39,17 @@
 
 
 * **Description**:
-
-The world consists of a large sea which has several enemies and objects present. Your boat
-must have a sail and a cannon that shoots fireballs. A booster that speeds up the boat for some
-time can be obtained from a monster boss drop. The world should be sufficiently big to
-incorporate all the elements of the assignment. Floating barrels would be present with gifts that
-give different amounts of points on top of them which can be collected by jumping over the
-barrels.
-Your boat must have health points. Sea monsters would spawn and on killing them, would drop
-gifts. Ensure that you use different kinds of monsters in your game. The sea monsters can
-damage the boat and reduce your health points. The game ends when you lose all your health
-points. After killing several sea monsters, a monster boss would spawn and on killing woulddrop the booster. The drops would float on the water and you must go over them to pick them
-up.
-There would be rocks present in the sea and if you do not maneuver around them, you will lose
-health points. At random times, a strong wind would start blowing in any particular direction.
-Your boat must change its speed according to the direction of the wind.
+  * The world consists of a large sea which has several enemies and objects present. Your boat
+    must have a sail and a cannon that shoots fireballs. A booster that speeds up the boat for some
+    time can be obtained from a monster boss drop. The world should be sufficiently big to
+    incorporate all the elements of the assignment. Floating barrels would be present with gifts that
+    give different amounts of points on top of them which can be collected by jumping over the
+    barrels.
+  * Your boat must have health points. Sea monsters would spawn and on killing them, would drop
+    gifts. Ensure that you use different kinds of monsters in your game. The sea monsters can
+    damage the boat and reduce your health points. The game ends when you lose all your health
+    points. After killing several sea monsters, a monster boss would spawn and on killing woulddrop the booster. The drops would float on the water and you must go over them to pick them
+    up.
+  * There would be rocks present in the sea and if you do not maneuver around them, you will lose
+    health points. At random times, a strong wind would start blowing in any particular direction.
+    Your boat must change its speed according to the direction of the wind.
